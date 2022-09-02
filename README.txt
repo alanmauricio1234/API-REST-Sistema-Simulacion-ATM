@@ -1,5 +1,5 @@
 ¡¡¡Hola!!!
-Este proyecto es realizado en Python, específicamente en Django, y es un 
+Este proyecto es realizado en Python, específicamente en Flask, y es un 
 servicio REST.
 En este servicio web expone una interfaz con los métodos para simular un
 cajero automático (ATM) de un banco.
@@ -35,6 +35,5 @@ proyecto.
 
     <<Forma de Ejecutarlo>>
 La manera de ejecutar un proyecto en Django es la siguiente:
-    python manage.py runserver
-Por defecto Django corre el servidor en el puerto 8000.
+    python app.py
 
